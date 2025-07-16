@@ -7,7 +7,7 @@ basic script linux
 untuk melakukan backup hosts, ufw, dan cron
 
 # prosedur
-'''bash
+```bash
 chmod +x backup_config.sh
 
 

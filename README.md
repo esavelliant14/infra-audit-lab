@@ -9,7 +9,7 @@ untuk melakukan backup hosts, ufw, dan cron
 # prosedur
 ```bash
 chmod +x backup_config.sh
-
+```bash
 
 untuk memastikan script jalan gunakan perintah
 

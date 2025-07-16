@@ -82,3 +82,20 @@ python3 kopas.py
 ```
 
 NOTE : jangan lupa source destination diperhatikan di file kopas.py
+
+
+#check ping dan dimasukkan ke log
+
+script ping lalu dimasukkan ke dalam log hasilnya
+
+```bash
+./check_host.sh
+```
+
+#check service lalu jika mati langsung di restart supaya service up
+
+misal service nginx atau fail2ban
+
+```bash
+check_service_action.sh
+```

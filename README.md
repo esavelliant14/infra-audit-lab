@@ -77,8 +77,8 @@ pip3 install shutils
 
 Eksekusi
 
-'''bash
+```bash
 python3 kopas.py
-'''
+```
 
 NOTE : jangan lupa source destination diperhatikan di file kopas.py
